@@ -1,4 +1,4 @@
-package br.com.bandtec.banco.teste;
+package teste;
 
 import org.apache.commons.dbcp2.BasicDataSource;
 

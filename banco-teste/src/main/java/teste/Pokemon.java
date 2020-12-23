@@ -1,4 +1,4 @@
-package br.com.bandtec.banco.teste;
+package teste;
 
 public class Pokemon {
 

@@ -1,4 +1,4 @@
-package br.com.bandtec.banco.teste;
+package teste;
 
 import java.util.Scanner;
 import org.springframework.jdbc.core.JdbcTemplate;
