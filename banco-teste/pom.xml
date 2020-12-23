@@ -19,7 +19,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>br.bandtec.banco.teste.TestDatabase</mainClass>
+                            <mainClass>TestDatabase</mainClass>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>dependency-jars/</classpathPrefix>
                         </manifest>
