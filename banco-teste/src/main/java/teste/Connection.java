@@ -15,7 +15,7 @@ public class Connection {
 
         this.datasource.setUsername("root");
 
-        this.datasource.setPassword("admin");
+        this.datasource.setPassword("urubu100");
     }
 
     public BasicDataSource getDatasource() {
